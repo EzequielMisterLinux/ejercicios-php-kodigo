@@ -9,9 +9,10 @@ Este repositorio contiene ejercicios prácticos realizados en PHP como parte del
 ### **Grupo #1**
 - **Humberto Ezequiel Zelaya Campos**
 - **Mario José Pinto Amaya**
-- **Iván Calderón**
+- **Iván Ernesto Calderón**
 - **Marcela Carolina Menjívar**
 - **Jason Eliu Fuente**
+- **Rafael Edgardo Arévalo Vanegas**
 
 ### **Grupo #2**
 - **Humberto Ezequiel Zelaya Campos**
@@ -20,7 +21,7 @@ Este repositorio contiene ejercicios prácticos realizados en PHP como parte del
 - **Edwin Fabricio Morataya Iraheta**
 - **Michael Edenilson Marroquín Chévez**
 - **Orlando Josué Palacios Valladares**
-
+- **Jason Eliu Fuente**
 ---
 
 ## 🚀 **Objetivo del Proyecto**  
