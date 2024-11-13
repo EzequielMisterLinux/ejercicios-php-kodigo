@@ -13,6 +13,7 @@ Este repositorio contiene ejercicios prácticos realizados en PHP como parte del
 - **Marcela Carolina Menjívar**
 - **Jason Eliu Fuente**
 - **Rafael Edgardo Arévalo Vanegas**
+- **Steven Josué Trujillo Cuéllar**
 
 ### **Grupo #2**
 - **Humberto Ezequiel Zelaya Campos**
