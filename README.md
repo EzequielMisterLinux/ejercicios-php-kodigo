@@ -11,6 +11,7 @@ Este repositorio contiene ejercicios prácticos realizados en PHP como parte del
 - **Mario José Pinto Amaya**
 - **Iván Calderón**
 - **Marcela Carolina Menjívar**
+- **Jason Eliu Fuente**
 
 ### **Grupo #2**
 - **Humberto Ezequiel Zelaya Campos**
